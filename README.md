@@ -180,3 +180,10 @@ psql -h db -U vscode -d duke_restaurants -f Q4.sql -o results/Q4.txt
 ```
 
 That’s all! Open this folder in VS Code, `Reopen in Container`, and you’re ready to query :)
+
+
+---
+
+## Author
+Freddy Platinus  
+Master of Engineering in Financial Technology, Duke University
